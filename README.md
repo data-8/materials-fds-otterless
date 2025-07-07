@@ -1,12 +1,12 @@
-# Otterless version of the Data 8 Public Materials for Spring 2022
+# Otterless version of the Data 8 Public Materials
 
 This repo contains all the notebooks used in Berkeley's Data 8 except all the otter grader cells have been removed. 
 
 This includes homework, labs, and notebooks used in lectures.
 
 Course Calendars:
-- [Example Course Calendar from UCB Data 8](http://data8.org/materials-sp22/)
-- [Course Calendar with link to Demo JupyterHub, Colab, CodeSpaces, JupyterLite and HTML Versions](http://data8.org/materials-sp22/demo.html)
+- [Example Course Calendar from UCB Data 8](http://data8.org/materials-fds/)
+- [Course Calendar with link to Demo JupyterHub, Colab, CodeSpaces, JupyterLite and HTML Versions](http://data8.org/materials-fds/demo.html)
 
 The contents of this repository are licensed for reuse under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/)
 
