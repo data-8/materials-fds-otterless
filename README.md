@@ -1,8 +1,8 @@
-# Otterless version of the Data 8 Public Materials
+# Data 8 Public Materials
 
-This repo contains all the notebooks used in Berkeley's Data 8 except all the otter grader cells have been removed. 
+This repo contains the publicly available materials that are used in the Data 8 Foundations of Data Science course.
 
-This includes homework, labs, and notebooks used in lectures.
+This includes: homeworks, labs, and notebooks used in lecture.
 
 Course Calendars:
 - [Example Course Calendar from UCB Data 8](http://data8.org/materials-fds/)
